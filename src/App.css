@@ -1,0 +1,6 @@
+@import "tailwindcss";
+#root {
+  background-color: rgb(238, 245, 214);
+  margin: 0 auto;
+  text-align: center;
+}
