@@ -49,7 +49,7 @@ const About = () => {
               }}
             >
               <img
-                src="/public/images/beautiful-architecture-building.jpg"
+                src="/src/images/beautiful-architecture-building.jpg"
                 alt="City skyline at night"
                 className="absolute w-full h-full object-cover"
               />
@@ -63,7 +63,7 @@ const About = () => {
               }}
             >
               <img
-                src="/public/images/shiny-night-city.jpg"
+                src="/src/images/shiny-night-city.jpg"
                 alt="Modern architecture"
                 className="w-full h-full object-cover"
               />
