@@ -26,7 +26,7 @@ export default function Home() {
           <div className="md:w-1/2 flex justify-center">
             {/* Replace with your preferred hero image */}
             <img
-              src="/src/images/beautiful-architecture-building.jpg"
+              src="/public/images/beautiful-architecture-building.jpg"
               alt="Hero illustration"
               className="rounded-md shadow-lg"
             />

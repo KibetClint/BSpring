@@ -60,7 +60,7 @@ const Services = () => {
           style={{ clipPath: "polygon(100% 0, 0 0, 100% 100%)" }}
         >
           <img
-            src="/src/images/shiny-night-city.jpg"
+            src="/public/images/shiny-night-city.jpg"
             alt="City skyline"
             className="w-full h-full object-cover"
           />
